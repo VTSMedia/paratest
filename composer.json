@@ -1,5 +1,5 @@
 {
-    "name": "brianium/paratest",
+    "name": "elliotmoso/paratest",
     "require": {
         "php": ">=5.5.11",
         "phpunit/phpunit": "~5.0",
@@ -15,7 +15,7 @@
     "type": "library",
     "description": "Parallel testing for PHP",
     "keywords": ["testing","PHPUnit", "concurrent", "parallel"],
-    "homepage": "https://github.com/brianium/paratest",
+    "homepage": "https://github.com/elliotmoso/paratest",
     "license": "MIT",
     "authors": [
         {
