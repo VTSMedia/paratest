@@ -1,5 +1,5 @@
 {
-    "name": "elliotmoso/paratest",
+    "name": "vtsmedia/paratest",
     "require": {
         "php": ">=5.5.11",
         "phpunit/phpunit": "~5.0",
